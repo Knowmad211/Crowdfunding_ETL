@@ -1,3 +1,10 @@
+.DS_Store
+api_keys.py
+
+
+
+####Below is the GitHub standard Python .gitignore template
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

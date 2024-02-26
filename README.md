@@ -14,7 +14,7 @@ For this project, we were tasked with creating an ETL pipeline using Python, Pan
 -  [campaign.csv](campaign.csv)
 -  [contacts.csv](contacts.csv)
 
-We also created an [ERD](Crowdfunding_Database_ERD.png) to visually show the data relationships within the Database, and exported it as a Postgres [file](crowdfunding_db_schema.sql).
+We also created an [ERD](Crowdfunding_Database_ERD.png) to visually show the data relationships within the Database, and used it to create a Postgres [file](crowdfunding_db_schema.sql).
 
 ## Table of Contents
 1. [Required Libraries](#required-libraries)

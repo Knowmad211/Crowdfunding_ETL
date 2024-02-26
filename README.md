@@ -1,10 +1,20 @@
 # Crowdfunding_ETL - Team 5
 
 ## Authors/Collaborators: 
-Anthony Abushacra, Julio Dela Cruz, Kevin Nazario, Sowmya Kotipalli, Thotadmoole Shreenidhi
+- [Anthony Abushacra](https://github.com/Knowmad211)
+- [Julio Dela Cruz](https://github.com/juliodelacruzz)
+- [Sowmya Kotipalli](https://github.com/kotipals)
+- [Kevin Nazario](https://github.com/knazario)
+- [Thotadmoole Shreenidhi](https://github.com/tshreenidhi)
 
 ## Overview
-Brief description of the project.
+For this project, we were tasked with creating an ETL pipeline using Python, Pandas, and NumPy to extract data provided to us in [crowdfunding.xlsx](crowdfunding.xlsx) as well as [contacts.xlsx](contacts.xlsx), and turn it into a [PostgreSQL Database](crowdfunding.db) consisting of four components:
+-  [category.csv](category.csv)
+-  [subactegory.csv](subactegory.csv)
+-  [campaign.csv](campaign.csv)
+-  [contacts.csv](contacts.csv)
+
+We also created an [ERD](Crowdfunding_Database_ERD.png) to visually show the data relationships within the Database, and exported it as a Postgres [file](crowdfunding_db_schema.sql).
 
 ## Table of Contents
 1. [Required Libraries](#required-libraries)
@@ -15,11 +25,11 @@ Brief description of the project.
 6. [Results](#results)
 
 ## Required Libraries
-For the data extraction and transformation portion of this project (python), the following libraries were utilized: 
+For the data extraction and transformation portion of this project (Python), the following libraries were utilized: 
 * Pandas
 * Numpy
 
-For the loading the data into a database, the SQL Schema is written to be run using PostgreSQL (see installation section if needed)
+For the loading of the data into a database, the SQL Schema is written to be run using PostgreSQL (see installation section if needed).
 
 ## Installation
 Brief instructions on how to install the project or its dependencies.
@@ -36,5 +46,6 @@ Description of the dataset used in the project and how to access it.
 
 ## Analysis--  
 Overview of the analysis performed in the project.
+
 ## Results- 
 Summary of key results or findings from the analysis.

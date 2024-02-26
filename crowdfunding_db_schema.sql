@@ -1,9 +1,10 @@
 ﻿
 -- Drop tables from database if already exist (resets database and will need to import/re-improt data)
+DROP TABLE IF EXISTS campaign;
 DROP TABLE IF EXISTS contacts;
 DROP TABLE IF EXISTS category;
 DROP TABLE IF EXISTS subcategory;
-DROP TABLE IF EXISTS campaign;
+
 
 -- Create contacts table with primary key as contact_id
 CREATE TABLE contacts (

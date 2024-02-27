@@ -40,9 +40,6 @@ When importing the .csv files to the tables using PGAdmin, the .csv files must b
 3. contacts.csv
 4. campaign.csv
 
-```bash
-python main.py
-```
 ## Data
 As mentioned above, the data we used was provided to us in the form of two documents:
 - [crowdfunding.xlsx](Starter_Files/Resources/crowdfunding.xlsx)

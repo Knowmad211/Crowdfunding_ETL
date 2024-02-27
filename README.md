@@ -42,7 +42,10 @@ Instructions on how to use the project or run specific scripts.
 python main.py
 ```
 ## Data
-Description of the dataset used in the project and how to access it.
+As mentioned above, the data we used was provided to us in the form of two documents:
+- [crowdfunding.xlsx](crowdfunding.xlsx)
+- [contacts.xlsx](contacts.xlsx)
+and the starter code was provided to us in the form of [ETL_Mini_Project_Starter_Code.ipynb](ETL_Mini_Project_Starter_Code.ipynb).
 
 ## Analysis--  
 Overview of the analysis performed in the project.

@@ -32,8 +32,8 @@ For the data extraction and transformation portion of this project (Python), the
 For the loading of the data into a database, the SQL Schema is written to be run using PostgreSQL (see installation section if needed).
 
 ## Installation
-Install required libraries listed above (if not already installed). 
-Install [PGAdmin](https://www.pgadmin.org/download/)
+* Install required libraries listed above (if not already installed). 
+* Install [PGAdmin](https://www.pgadmin.org/download/). Please refer to PGAdmin documentation for setting up your local database
 
 ## Usage
 Instructions on how to use the project or run specific scripts.

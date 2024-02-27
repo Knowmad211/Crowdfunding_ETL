@@ -8,7 +8,7 @@
 - [Thotadmoole Shreenidhi](https://github.com/tshreenidhi)
 
 ## Overview
-For this project, we were tasked with creating an ETL pipeline using Python, Pandas, and NumPy to extract data provided to us in [crowdfunding.xlsx](Resources/crowdfunding.xlsx) as well as [contacts.xlsx](Resources/contacts.xlsx), and turn it into a [PostgreSQL Database](Resources/crowdfunding.db) consisting of four components:
+For this project, we were tasked with creating an ETL pipeline using Python, Pandas, and NumPy to extract data provided to us in [crowdfunding.xlsx](Resources/crowdfunding.xlsx) as well as [contacts.xlsx](Resources/contacts.xlsx), and turn it into a PostgreSQL Database consisting of four components:
 -  [category.csv](Resources/category.csv)
 -  [subactegory.csv](Resources/subactegory.csv)
 -  [campaign.csv](Resources/campaign.csv)
